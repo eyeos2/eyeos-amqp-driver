@@ -36,4 +36,4 @@ Publishing to $REGISTRY
 *************************************************
 TEXT
 
-npm publish --registry="$REGISTRY" .
+npm publish --registry="$REGISTRY" --verbose .
