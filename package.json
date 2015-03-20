@@ -1,4 +1,4 @@
-{ "name" : "amqp"
+{ "name" : "eyeos-amqp-driver"
 , "description" : "AMQP driver for node"
 , "keywords" : [ "amqp" ]
 , "version" : "0.2.4"
